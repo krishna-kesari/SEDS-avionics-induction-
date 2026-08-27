@@ -48,7 +48,7 @@ i added a startup grace period to ensure the journey begins in OPEN SEA, and imp
   - LCD wired to pins 7,6,5,4,3,2.  
   - LED → pin 12, Buzzer → pin 11, Button → pin 8.  
 
- See `screenshots/tinkercad arduino.png`
+ See `![alt text](<tinkercad arduino.png>)
 
 
 Code Documentation:
